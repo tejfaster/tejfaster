@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tej Pratap
 - 👀 I’m interested in React-native
-- 🌱 I’m currently learning node 
-- 💞️ I’m looking to collaborate on react,react_native
+- 🌱 I’m currently learning go lang 
+- 💞️ I’m looking to collaborate on react,react_native,node
 - 📫 How to reach me by email Tejfaster55@gmail.com
 
 <!---
