@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tej Pratap
 - 👀 I’m interested in React-native, React Js & node js 
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on REACT_NATIVE & NODE JS
 - 📫 How to reach me by email Tejfaster55@gmail.com
 
