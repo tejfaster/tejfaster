@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tej Pratap
-- 👀 I’m interested in React-native, React Js & node js 
+- 👀 I’m interested in Data, Messy & cluttered Data 
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on REACT_NATIVE & NODE JS
-- 📫 How to reach me by email Tejfaster55@gmail.com
+- 💞️ I’m looking to collaborate on pre-processing of data & deployment of model
+- 📫 How to reach me by email: Tejfaster55@gmail.com
 
 <!---
 tejfaster/tejfaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
