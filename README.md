@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tej Pratap
-- 👀 I’m interested in Data, Messy & cluttered Data 
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Messy & cluttered Data 
+- 🌱 I’m currently learning Spark and Machine Learning
 - 💞️ I’m looking to collaborate on pre-processing of data & deployment of model
 - 📫 How to reach me by email: Tejfaster55@gmail.com
 
